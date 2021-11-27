@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaisySunchaser
 - 👀 I’m interested in laNa dEL ReY
 - 🌱 I’m currently learning C++
-- 📫 How to reach me ... email at 3014936775@qq.com / Twitter ID @UltraviolentDFS
+- 📫 How to reach me ... email at 3014936775@qq.com / Twitter ID @DaisySunchaser
 
 <!---
 DaisySunchaser/DaisySunchaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
