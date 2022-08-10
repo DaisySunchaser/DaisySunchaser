@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaisySunchaser
-- 👀 I’m interested in laNa dEL ReY
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in laNa dEL ReY & LOrdE
+- 🌱 I’m currently learning olympiad in informatics
 - 📫 How to reach me ... email at 3014936775@qq.com / Twitter ID @DaisySunchaser
 
 <!---
